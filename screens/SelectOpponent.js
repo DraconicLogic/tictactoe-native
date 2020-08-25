@@ -6,8 +6,15 @@ import { MonoText } from '../components/StyledText';
 
 
 export default function SelectOpponent() {
+
+  React.useEffect(() => {
+    // Search for bluetooth signal here and save all available opponents into state
+  })
+
+  const [opponents, setOpponents] = React.useState([])
   return (
     <View>
+    {/* Render opponents here */}
       <Text>
         Select Opponent
       </Text>
