@@ -1,0 +1,34 @@
+{
+  "King": {
+    "player": "King",
+    "name": "Kingsley",
+    "wins": 0,
+    "losses": 0,
+    "draws": 0,
+    "icon": "King Icon"
+  },
+  "Chi": {
+    "player": "Chi",
+    "name": "Chinenye",
+    "wins": 0,
+    "losses": 0,
+    "draws": 0,
+    "icon": "Chi Icon"
+  },
+  "Chris": {
+    "player": "Chris",
+    "name": "Christopher",
+    "wins": 0,
+    "losses": 0,
+    "draws": 0,
+    "icon": "Chris Icon"
+  },
+  "Eze": {
+    "player": "Eze",
+    "name": "Nathaniel",
+    "wins": 0,
+    "losses": 0,
+    "draws": 0,
+    "icon": "Eze Icon"
+  }
+}
